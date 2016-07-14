@@ -1,0 +1,13 @@
+{
+  "appname": "Ishir Demo",
+  "ocscope": "FullAccess",
+  "clientid": "BACA747A-5A20-4AA9-B613-10ED43BC143B",
+  "buyerid": "testbuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
